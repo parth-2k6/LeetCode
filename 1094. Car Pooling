@@ -1,0 +1,26 @@
+// Java Solution
+
+class Solution {
+    public boolean carPooling(int[][] trips, int capacity) {
+        int[] ps = new int[1001];
+
+        for (int[] trip:trips) {
+            int numpass = trip[0];
+            int from = trip[1];
+            int to = trip[2];
+
+            ps[from] += numpass;
+            ps[to] -= numpass;
+        }
+
+        int cpass = 0;
+        for (int i = 0; i < 1001; i++) {
+            cpass += ps[i];
+            if (cpass > capacity) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+}
