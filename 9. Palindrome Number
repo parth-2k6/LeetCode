@@ -1,0 +1,30 @@
+// Java Solution 
+
+import java.util.*;
+class Solution {
+    public boolean isPalindrome(int x) {
+     if (x<0) {
+            return false;
+     }
+        int t=x; int a;
+        int s=0;
+        while (t!=0) {
+            a=t%10;
+            s=(s * 10)+a;
+            t=t/10;
+        }
+        return x==s;
+    }
+ public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter an integer: ");
+        int n = sc.nextInt();
+        Solution ob = new Solution();
+        boolean isPal=ob.isPalindrome(n);
+        if (isPal) {
+            System.out.println("true");
+        } else {
+            System.out.println("false");
+        }
+   }
+}
