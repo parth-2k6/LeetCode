@@ -1,0 +1,21 @@
+// Java Solution
+
+class Solution {
+    public boolean isCovered(int[][] ranges, int left, int right) {
+        for (int x = left; x <= right; x++) { 
+            boolean coverrange = false;
+            for (int[] range:ranges) { 
+                int start = range[0];
+                int end = range[1];
+                if (x >= start && x <= end) {
+                    coverrange = true;
+                    break;
+                }
+            }
+            if (!coverrange) {
+                return false; 
+            }
+        }
+        return true; 
+    }
+}
