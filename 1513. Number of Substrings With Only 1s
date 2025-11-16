@@ -1,0 +1,16 @@
+import java.util.*;
+class Solution {
+    public int numSub(String s) {
+        int mod = (int) (Math.pow(10,9)) + 7;
+        int ts = 0; int counter = 0; int i;
+        int l = s.length();
+        for (i=0;i<l;i++) {
+        if (s.charAt(i)=='1') 
+            counter++;
+        else
+         counter=0;
+         ts=(ts+counter)%mod;
+        }
+        return (int) ts;
+    }
+}
