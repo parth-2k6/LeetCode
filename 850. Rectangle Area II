@@ -1,0 +1,56 @@
+import java.util.*;
+
+class Solution {
+    class Event {
+        int x, y1, y2, type;
+        Event(int x, int y1, int y2, int type) {
+            this.x = x;
+            this.y1 = y1;
+            this.y2 = y2;
+            this.type = type;
+        }
+    }
+
+    public int rectangleArea(int[][] rectangles) {
+        int MOD = 1000000007;
+        List<Event> events = new ArrayList<>();
+        Set<Integer> yCoords = new TreeSet<>();
+
+        for (int[] rect : rectangles) {
+            int x1 = rect[0], y1 = rect[1], x2 = rect[2], y2 = rect[3];
+            events.add(new Event(x1, y1, y2, 1));
+            events.add(new Event(x2, y1, y2, -1));
+            yCoords.add(y1);
+            yCoords.add(y2);
+        }
+
+        Collections.sort(events, (a, b) -> Integer.compare(a.x, b.x));
+        List<Integer> sortedY = new ArrayList<>(yCoords);
+        
+        int m = sortedY.size();
+        int[] yCount = new int[m - 1]; // Tracks how many times each y-interval is covered
+        long area = 0;
+        int prevX = 0;
+
+        for (Event event : events) {
+            int currentX = event.x;
+            if (currentX > prevX) {
+                long yLength = 0;
+                for (int i = 0; i < m - 1; i++) {
+                    if (yCount[i] > 0) {
+                        yLength += (long) sortedY.get(i + 1) - sortedY.get(i);
+                    }
+                }
+                area = (area + yLength * (currentX - prevX)) % MOD;
+                prevX = currentX;
+            }
+            
+            for (int i = 0; i < m - 1; i++) {
+                if (sortedY.get(i) >= event.y1 && sortedY.get(i + 1) <= event.y2) {
+                    yCount[i] += event.type;
+                }
+            }
+        }
+        return (int) area;
+    }
+}
