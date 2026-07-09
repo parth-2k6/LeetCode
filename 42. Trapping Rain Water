@@ -1,0 +1,17 @@
+class Solution:
+    def trap(self, height):
+        s = 0
+        e = len(height) - 1
+        lm = 0
+        rm = 0
+        t = 0
+        while s < e:
+            lm = max(lm, height[s])
+            rm = max(rm, height[e])
+            if lm < rm:
+                t += lm - height[s]
+                s += 1
+            else:
+                t += rm - height[e]
+                e -= 1
+        return t
