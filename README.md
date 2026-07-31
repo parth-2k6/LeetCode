@@ -7,6 +7,7 @@
 | ------- |
 | [0015-3sum](https://github.com/parth-2k6/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/parth-2k6/LeetCode/tree/master/0016-3sum-closest) |
+| [0209-minimum-size-subarray-sum](https://github.com/parth-2k6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/parth-2k6/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -28,4 +29,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parth-2k6/LeetCode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/parth-2k6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/parth-2k6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/parth-2k6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
