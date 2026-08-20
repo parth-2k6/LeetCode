@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/parth-2k6/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/parth-2k6/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/parth-2k6/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/parth-2k6/LeetCode/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/parth-2k6/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/parth-2k6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/parth-2k6/LeetCode/tree/master/0287-find-the-duplicate-number) |
