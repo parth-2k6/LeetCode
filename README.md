@@ -16,6 +16,7 @@
 | [0904-fruit-into-baskets](https://github.com/parth-2k6/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parth-2k6/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/parth-2k6/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/parth-2k6/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/parth-2k6/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/parth-2k6/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/parth-2k6/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -29,6 +30,7 @@
 | [0202-happy-number](https://github.com/parth-2k6/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/parth-2k6/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/parth-2k6/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/parth-2k6/LeetCode/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/parth-2k6/LeetCode/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/parth-2k6/LeetCode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
