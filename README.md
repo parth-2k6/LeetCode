@@ -45,10 +45,12 @@
 | [0020-valid-parentheses](https://github.com/parth-2k6/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/parth-2k6/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/parth-2k6/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parth-2k6/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parth-2k6/LeetCode/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parth-2k6/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
 | ------- |
