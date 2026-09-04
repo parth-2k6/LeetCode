@@ -133,4 +133,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/parth-2k6/LeetCode/tree/master/0986-interval-list-intersections) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/parth-2k6/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
