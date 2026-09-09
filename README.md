@@ -12,6 +12,7 @@
 | [0152-maximum-product-subarray](https://github.com/parth-2k6/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/parth-2k6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/parth-2k6/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/parth-2k6/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/parth-2k6/LeetCode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/parth-2k6/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parth-2k6/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parth-2k6/LeetCode/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/parth-2k6/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parth-2k6/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
@@ -139,4 +141,8 @@
 | [0182-duplicate-emails](https://github.com/parth-2k6/LeetCode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/parth-2k6/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/parth-2k6/LeetCode/tree/master/0197-rising-temperature) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/parth-2k6/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
