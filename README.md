@@ -46,6 +46,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/parth-2k6/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/parth-2k6/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/parth-2k6/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/parth-2k6/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/parth-2k6/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parth-2k6/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -84,6 +85,7 @@
 | [0141-linked-list-cycle](https://github.com/parth-2k6/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parth-2k6/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/parth-2k6/LeetCode/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/parth-2k6/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/parth-2k6/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/parth-2k6/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Linked List
@@ -124,6 +126,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/parth-2k6/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parth-2k6/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -148,4 +151,8 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/parth-2k6/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/parth-2k6/LeetCode/tree/master/0739-daily-temperatures) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/parth-2k6/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
