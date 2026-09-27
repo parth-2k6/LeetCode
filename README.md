@@ -48,6 +48,7 @@
 | [0076-minimum-window-substring](https://github.com/parth-2k6/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/parth-2k6/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parth-2k6/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/parth-2k6/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/parth-2k6/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parth-2k6/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/parth-2k6/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -89,6 +90,7 @@
 | [0202-happy-number](https://github.com/parth-2k6/LeetCode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/parth-2k6/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parth-2k6/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/parth-2k6/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/parth-2k6/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/parth-2k6/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/parth-2k6/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -161,4 +163,8 @@
 | [0383-ransom-note](https://github.com/parth-2k6/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parth-2k6/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/parth-2k6/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/parth-2k6/LeetCode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
