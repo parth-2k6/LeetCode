@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/parth-2k6/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/parth-2k6/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/parth-2k6/LeetCode/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/parth-2k6/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/parth-2k6/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/parth-2k6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/parth-2k6/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -65,6 +66,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/parth-2k6/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/parth-2k6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/parth-2k6/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/parth-2k6/LeetCode/tree/master/0792-binary-search) |
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/parth-2k6/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/parth-2k6/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
