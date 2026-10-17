@@ -12,6 +12,7 @@
 | [0074-search-a-2d-matrix](https://github.com/parth-2k6/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/parth-2k6/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/parth-2k6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/parth-2k6/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/parth-2k6/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/parth-2k6/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/parth-2k6/LeetCode/tree/master/0724-find-pivot-index) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/parth-2k6/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/parth-2k6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/parth-2k6/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/parth-2k6/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/parth-2k6/LeetCode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/parth-2k6/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -136,6 +138,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/parth-2k6/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parth-2k6/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -183,4 +186,5 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/parth-2k6/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/parth-2k6/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
