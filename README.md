@@ -16,6 +16,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/parth-2k6/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/parth-2k6/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/parth-2k6/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/parth-2k6/LeetCode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/parth-2k6/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/parth-2k6/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/parth-2k6/LeetCode/tree/master/0724-find-pivot-index) |
@@ -51,6 +52,7 @@
 | [0056-merge-intervals](https://github.com/parth-2k6/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parth-2k6/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/parth-2k6/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/parth-2k6/LeetCode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/parth-2k6/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/parth-2k6/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/parth-2k6/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/parth-2k6/LeetCode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/parth-2k6/LeetCode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/parth-2k6/LeetCode/tree/master/0767-reorganize-string) |
 ## Ternary Search
 |  |
@@ -215,6 +218,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/parth-2k6/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/parth-2k6/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/parth-2k6/LeetCode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/parth-2k6/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/parth-2k6/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/parth-2k6/LeetCode/tree/master/0973-k-closest-points-to-origin) |
