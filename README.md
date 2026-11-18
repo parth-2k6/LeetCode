@@ -66,6 +66,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parth-2k6/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/parth-2k6/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/parth-2k6/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/parth-2k6/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/parth-2k6/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parth-2k6/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -154,6 +155,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/parth-2k6/LeetCode/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/parth-2k6/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parth-2k6/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/parth-2k6/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -256,4 +258,12 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/parth-2k6/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/parth-2k6/LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/parth-2k6/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
